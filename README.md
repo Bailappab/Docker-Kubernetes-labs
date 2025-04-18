@@ -1,6 +1,6 @@
 # Docker-Kubernetes-labs
 
-# Kubeadm Installation Guide-ubuntu
+#Lab:01- Installation of Kubernetes using Kubeadm on 3 3-node cluster on Ubuntu
 
 This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm.
 
